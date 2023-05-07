@@ -1,5 +1,9 @@
 # Pokedex
 The project is to try out web scraping on a cleanly formatted web page. The scraping is done using `BeautifulSoup4`. The data extracted from the web page is then converted into a pandas dataframe and saved as a .csv file for further analysis.
+<br><br>
+The project is organized as follows:
+1. The first step is to scrape the pokedex data from a web page and save it to a file
+2. The second step is to do exploratory data analysis to get a feel for the data
 
 
 ## Data
