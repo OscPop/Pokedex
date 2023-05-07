@@ -14,7 +14,7 @@ Source: https://pokemondb.net/pokedex/all
 
 
 ## Install
-Make sure to have a virtual environment readym either through conda or pip. After you have activated the virtual environment you can install the dependencies found in the `requirements.txt` file. To install the necessary libraries, you can run `pip install requirements.txt` or `python3 -m pip install requirements.txt`. 
+Make sure to have a virtual environment readym either through conda or pip. After you have activated the virtual environment you can install the dependencies found in the `requirements.txt` file. To install the necessary libraries, you can run `pip install -r requirements.txt` or `python3 -m pip install -r requirements.txt`. 
 
 
 ## Future Ideas
