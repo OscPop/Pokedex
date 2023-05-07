@@ -3,7 +3,7 @@ The project is to try out web scraping on a cleanly formatted web page. The scra
 
 
 ## Data
-The data is taken from https://pokemondb.net/pokedex/all.
+The data is taken from https://pokemondb.net/pokedex/all and the original table looks like this:
 ![Pokedex first rows](/images/pokedex_first_rows.png "first rows of pokedex")
 Source: https://pokemondb.net/pokedex/all
 
