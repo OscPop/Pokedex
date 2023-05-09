@@ -8,7 +8,7 @@ The project is organized as follows:
 ## Exploring the data
 This process is massively simplified by utilizing tools such as ChatGPT and GitHub Copilot. Asking ChatGPT about interesting and relevant things to look for in the data is a perfect start to an exploratory data analysis. GitHub Copilot works really well when you have a grasp of how you want to write your code as it is good at completing your code snippets/comments. 
 <br>
-Another new tool that has arrived is "data wrangler" by Microsoft. Data wrangler works like a user interface that lets users explore and manipulate a pandas dataframe without the need to write code. The processing steps are recorded and converted to pandas code that the user then can copy and use. 
+Another new tool that has arrived is ["data wrangler"](https://devblogs.microsoft.com/python/data-wrangler-release/) by Microsoft. Data wrangler works like a user interface that lets users explore and manipulate a pandas dataframe without the need to write code. The processing steps are recorded and converted to pandas code that the user then can copy and use. 
 
 
 ## Data
