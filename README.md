@@ -4,7 +4,11 @@ The project is to try out web scraping on a cleanly formatted web page. The scra
 The project is organized as follows:
 1. The first step is to scrape the pokedex data from a web page and save it to a file
 2. The second step is to do exploratory data analysis to get a feel for the data
-    - This process is massively simplified by utilizing tools such as ChatGPT and GitHub Copilot. Asking ChatGPT about interesting and relevant things to look for in the data is a perfect start to an exploratory data analysis. GitHub Copilot works really well when you have a grasp of how you want to write your code as it is good at completing your code snippets/comments. 
+
+## Exploring the data
+This process is massively simplified by utilizing tools such as ChatGPT and GitHub Copilot. Asking ChatGPT about interesting and relevant things to look for in the data is a perfect start to an exploratory data analysis. GitHub Copilot works really well when you have a grasp of how you want to write your code as it is good at completing your code snippets/comments. 
+<br>
+Another new tool that has arrived is "data wrangler" by Microsoft. Data wrangler works like a user interface that lets users explore and manipulate a pandas dataframe without the need to write code. The processing steps are recorded and converted to pandas code that the user then can copy and use. 
 
 
 ## Data
